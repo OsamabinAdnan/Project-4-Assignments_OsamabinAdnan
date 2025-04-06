@@ -17,9 +17,9 @@ A sleek and responsive web application built using **Python** and **Streamlit**,
 
 ---
 
-## 🖥️ Demo
+## 🖥️ Live App Link
 
-![App Demo Screenshot](https://flagcdn.com/256x192/pk.png) <!-- You can replace this with an actual screenshot of your app UI -->
+
 
 ---
 
@@ -37,8 +37,8 @@ A sleek and responsive web application built using **Python** and **Streamlit**,
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/country-info-app.git
-cd country-info-app
+git clone https://github.com/OsamabinAdnan/Project-4-Assignments_OsamabinAdnan/tree/main/Assignment_01_online_class_projects/
+cd Online Class Project 09 Python Streamlit Web App - Country Information Cards
 ```
 ### 2. Create a Virtual Environment (Optional but Recommended)
 
@@ -83,7 +83,7 @@ Replace `app.py` with your file name if different.
 .
 ├── app.py               # Main application file
 ├── .gitignore           # Ignore sensitive files like API keys
-├── requirements.txt     # Python dependencies
+├── requirements.txt     # Python dependencies | pip freeze > requirements.txt ==> This command will write all packages with versions in this file
 └── README.md            # You're reading it!
 
 ```
