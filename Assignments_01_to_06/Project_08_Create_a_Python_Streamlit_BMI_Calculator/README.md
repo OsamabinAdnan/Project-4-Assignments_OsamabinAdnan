@@ -63,6 +63,10 @@ The application classifies BMI into the following categories:
 - Responsive design with centered layout
 - Custom page configuration with emoji icons
 
+## 🔗 Live App
+
+[BMI Calculator](https://bmicalculatorapp-osamabinadnan.streamlit.app/) from Osama bin Adnan
+
 ## 📝 License
 
 This project is open source and available under the MIT License.
