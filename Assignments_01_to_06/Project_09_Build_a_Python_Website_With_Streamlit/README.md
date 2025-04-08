@@ -47,6 +47,9 @@ st.set_page_config(
 )
 ```
 
+### Live Demo
+[Data Visualization Dashboard](https://datavisualizationdashboard-osamabinadnan.streamlit.app/)
+
 ## License
 
 This project is open source and available under the MIT License.
